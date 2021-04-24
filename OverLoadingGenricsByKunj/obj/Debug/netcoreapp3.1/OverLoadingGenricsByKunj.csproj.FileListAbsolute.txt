@@ -1,0 +1,13 @@
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\OverLoadingGenricsByKunj\bin\Debug\netcoreapp3.1\OverLoadingGenricsByKunj.exe
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\OverLoadingGenricsByKunj\bin\Debug\netcoreapp3.1\OverLoadingGenricsByKunj.deps.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\OverLoadingGenricsByKunj\bin\Debug\netcoreapp3.1\OverLoadingGenricsByKunj.runtimeconfig.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\OverLoadingGenricsByKunj\bin\Debug\netcoreapp3.1\OverLoadingGenricsByKunj.runtimeconfig.dev.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\OverLoadingGenricsByKunj\bin\Debug\netcoreapp3.1\OverLoadingGenricsByKunj.dll
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\OverLoadingGenricsByKunj\bin\Debug\netcoreapp3.1\OverLoadingGenricsByKunj.pdb
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\OverLoadingGenricsByKunj\obj\Debug\netcoreapp3.1\OverLoadingGenricsByKunj.csprojAssemblyReference.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\OverLoadingGenricsByKunj\obj\Debug\netcoreapp3.1\OverLoadingGenricsByKunj.AssemblyInfoInputs.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\OverLoadingGenricsByKunj\obj\Debug\netcoreapp3.1\OverLoadingGenricsByKunj.AssemblyInfo.cs
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\OverLoadingGenricsByKunj\obj\Debug\netcoreapp3.1\OverLoadingGenricsByKunj.csproj.CoreCompileInputs.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\OverLoadingGenricsByKunj\obj\Debug\netcoreapp3.1\OverLoadingGenricsByKunj.dll
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\OverLoadingGenricsByKunj\obj\Debug\netcoreapp3.1\OverLoadingGenricsByKunj.pdb
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\OverLoadingGenricsByKunj\obj\Debug\netcoreapp3.1\OverLoadingGenricsByKunj.genruntimeconfig.cache

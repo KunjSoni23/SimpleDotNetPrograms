@@ -1,0 +1,13 @@
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CoinTossingByKunj\bin\Debug\netcoreapp3.1\CoinTossingByKunj.exe
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CoinTossingByKunj\bin\Debug\netcoreapp3.1\CoinTossingByKunj.deps.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CoinTossingByKunj\bin\Debug\netcoreapp3.1\CoinTossingByKunj.runtimeconfig.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CoinTossingByKunj\bin\Debug\netcoreapp3.1\CoinTossingByKunj.runtimeconfig.dev.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CoinTossingByKunj\bin\Debug\netcoreapp3.1\CoinTossingByKunj.dll
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CoinTossingByKunj\bin\Debug\netcoreapp3.1\CoinTossingByKunj.pdb
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CoinTossingByKunj\obj\Debug\netcoreapp3.1\CoinTossingByKunj.AssemblyInfoInputs.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CoinTossingByKunj\obj\Debug\netcoreapp3.1\CoinTossingByKunj.AssemblyInfo.cs
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CoinTossingByKunj\obj\Debug\netcoreapp3.1\CoinTossingByKunj.csproj.CoreCompileInputs.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CoinTossingByKunj\obj\Debug\netcoreapp3.1\CoinTossingByKunj.dll
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CoinTossingByKunj\obj\Debug\netcoreapp3.1\CoinTossingByKunj.pdb
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CoinTossingByKunj\obj\Debug\netcoreapp3.1\CoinTossingByKunj.genruntimeconfig.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CoinTossingByKunj\obj\Debug\netcoreapp3.1\CoinTossingByKunj.csprojAssemblyReference.cache

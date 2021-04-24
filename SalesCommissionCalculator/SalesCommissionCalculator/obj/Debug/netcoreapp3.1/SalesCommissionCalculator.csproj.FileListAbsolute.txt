@@ -1,0 +1,12 @@
+C:\Users\sonik\source\repos\SalesCommissionCalculator\SalesCommissionCalculator\bin\Debug\netcoreapp3.1\SalesCommissionCalculator.exe
+C:\Users\sonik\source\repos\SalesCommissionCalculator\SalesCommissionCalculator\bin\Debug\netcoreapp3.1\SalesCommissionCalculator.deps.json
+C:\Users\sonik\source\repos\SalesCommissionCalculator\SalesCommissionCalculator\bin\Debug\netcoreapp3.1\SalesCommissionCalculator.runtimeconfig.json
+C:\Users\sonik\source\repos\SalesCommissionCalculator\SalesCommissionCalculator\bin\Debug\netcoreapp3.1\SalesCommissionCalculator.runtimeconfig.dev.json
+C:\Users\sonik\source\repos\SalesCommissionCalculator\SalesCommissionCalculator\bin\Debug\netcoreapp3.1\SalesCommissionCalculator.dll
+C:\Users\sonik\source\repos\SalesCommissionCalculator\SalesCommissionCalculator\bin\Debug\netcoreapp3.1\SalesCommissionCalculator.pdb
+C:\Users\sonik\source\repos\SalesCommissionCalculator\SalesCommissionCalculator\obj\Debug\netcoreapp3.1\SalesCommissionCalculator.AssemblyInfoInputs.cache
+C:\Users\sonik\source\repos\SalesCommissionCalculator\SalesCommissionCalculator\obj\Debug\netcoreapp3.1\SalesCommissionCalculator.AssemblyInfo.cs
+C:\Users\sonik\source\repos\SalesCommissionCalculator\SalesCommissionCalculator\obj\Debug\netcoreapp3.1\SalesCommissionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sonik\source\repos\SalesCommissionCalculator\SalesCommissionCalculator\obj\Debug\netcoreapp3.1\SalesCommissionCalculator.dll
+C:\Users\sonik\source\repos\SalesCommissionCalculator\SalesCommissionCalculator\obj\Debug\netcoreapp3.1\SalesCommissionCalculator.pdb
+C:\Users\sonik\source\repos\SalesCommissionCalculator\SalesCommissionCalculator\obj\Debug\netcoreapp3.1\SalesCommissionCalculator.genruntimeconfig.cache

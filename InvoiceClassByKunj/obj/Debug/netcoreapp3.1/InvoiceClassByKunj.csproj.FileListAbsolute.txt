@@ -1,0 +1,13 @@
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\InvoiceClassByKunj\bin\Debug\netcoreapp3.1\InvoiceClassByKunj.exe
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\InvoiceClassByKunj\bin\Debug\netcoreapp3.1\InvoiceClassByKunj.deps.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\InvoiceClassByKunj\bin\Debug\netcoreapp3.1\InvoiceClassByKunj.runtimeconfig.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\InvoiceClassByKunj\bin\Debug\netcoreapp3.1\InvoiceClassByKunj.runtimeconfig.dev.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\InvoiceClassByKunj\bin\Debug\netcoreapp3.1\InvoiceClassByKunj.dll
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\InvoiceClassByKunj\bin\Debug\netcoreapp3.1\InvoiceClassByKunj.pdb
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\InvoiceClassByKunj\obj\Debug\netcoreapp3.1\InvoiceClassByKunj.csprojAssemblyReference.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\InvoiceClassByKunj\obj\Debug\netcoreapp3.1\InvoiceClassByKunj.AssemblyInfoInputs.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\InvoiceClassByKunj\obj\Debug\netcoreapp3.1\InvoiceClassByKunj.AssemblyInfo.cs
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\InvoiceClassByKunj\obj\Debug\netcoreapp3.1\InvoiceClassByKunj.csproj.CoreCompileInputs.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\InvoiceClassByKunj\obj\Debug\netcoreapp3.1\InvoiceClassByKunj.dll
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\InvoiceClassByKunj\obj\Debug\netcoreapp3.1\InvoiceClassByKunj.pdb
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\InvoiceClassByKunj\obj\Debug\netcoreapp3.1\InvoiceClassByKunj.genruntimeconfig.cache

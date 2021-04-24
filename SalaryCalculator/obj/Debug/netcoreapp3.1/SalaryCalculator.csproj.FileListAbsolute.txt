@@ -1,0 +1,13 @@
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.exe
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.deps.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.runtimeconfig.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.runtimeconfig.dev.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.dll
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.pdb
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.csprojAssemblyReference.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.AssemblyInfoInputs.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.AssemblyInfo.cs
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.csproj.CoreCompileInputs.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.dll
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.pdb
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.genruntimeconfig.cache

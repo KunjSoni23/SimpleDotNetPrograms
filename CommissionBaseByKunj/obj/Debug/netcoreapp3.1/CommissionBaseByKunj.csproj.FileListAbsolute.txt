@@ -1,0 +1,13 @@
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CommissionBaseByKunj\bin\Debug\netcoreapp3.1\CommissionBaseByKunj.exe
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CommissionBaseByKunj\bin\Debug\netcoreapp3.1\CommissionBaseByKunj.deps.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CommissionBaseByKunj\bin\Debug\netcoreapp3.1\CommissionBaseByKunj.runtimeconfig.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CommissionBaseByKunj\bin\Debug\netcoreapp3.1\CommissionBaseByKunj.runtimeconfig.dev.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CommissionBaseByKunj\bin\Debug\netcoreapp3.1\CommissionBaseByKunj.dll
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CommissionBaseByKunj\bin\Debug\netcoreapp3.1\CommissionBaseByKunj.pdb
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CommissionBaseByKunj\obj\Debug\netcoreapp3.1\CommissionBaseByKunj.csprojAssemblyReference.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CommissionBaseByKunj\obj\Debug\netcoreapp3.1\CommissionBaseByKunj.AssemblyInfoInputs.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CommissionBaseByKunj\obj\Debug\netcoreapp3.1\CommissionBaseByKunj.AssemblyInfo.cs
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CommissionBaseByKunj\obj\Debug\netcoreapp3.1\CommissionBaseByKunj.csproj.CoreCompileInputs.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CommissionBaseByKunj\obj\Debug\netcoreapp3.1\CommissionBaseByKunj.dll
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CommissionBaseByKunj\obj\Debug\netcoreapp3.1\CommissionBaseByKunj.pdb
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\CommissionBaseByKunj\obj\Debug\netcoreapp3.1\CommissionBaseByKunj.genruntimeconfig.cache
